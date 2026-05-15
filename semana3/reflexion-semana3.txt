@@ -1,0 +1,9 @@
+Git es importante porque permite llevar control de los cambios en un proyecto.
+Ayuda a organizar versiones del trabajo realizado.
+Permite recuperar archivos o versiones anteriores.
+Facilita el trabajo en equipo entre programadores.
+También mejora el orden y seguimiento del desarrollo.
+Cada cambio queda registrado mediante commits.
+Se pueden documentar avances fácilmente.
+GitHub permite compartir proyectos en línea.
+Es una herramienta importante en desarrollo de software.

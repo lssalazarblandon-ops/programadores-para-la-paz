@@ -1,0 +1,8 @@
+1. Las dos tareas que realizaría primero son:
+- Registrar una incidencia.
+- Recibir una alerta en Telegram cuando se registre un nuevo reporte.
+
+2. Son las más importantes porque permiten que los ciudadanos reporten situaciones y que los responsables sean notificados rápidamente para dar seguimiento.
+
+3. Para mí, una tarea está terminada cuando:
+- Funciona correctamente.
